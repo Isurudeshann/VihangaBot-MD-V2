@@ -23,13 +23,12 @@ global.REACT_NUMBER = '9476342733'
 // Other
 global.owner = ['9476342733','']
 global.premium = ['9476342733','9476342733']
-global.botname = 'VIHANGA BOT INC'
-global.ownername = 'Vihanga MD'
+global.botname = 'Shan BOT INC'
+global.ownername = 'Shan MD'
 global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
 global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
-global.packname = 'VIHANGA BOT INC'
-global.cap = '*By Vihanga MD*'
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8'
+global.packname = 'Shan BOT INC'
+global.cap = '*By Shan MD*'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -50,7 +49,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'VIHANGA BOT INC'
+global.author = 'Shan BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
